@@ -1,0 +1,4 @@
+ACCESS_KEY_ID <- Sys.getenv("ACCESS_KEY_ID")
+SECRET_ACCESS_KEY <- Sys.getenv("SECRET_ACCESS_KEY")
+
+
